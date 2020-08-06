@@ -26,12 +26,7 @@ def second_challenge
       }
     ]
   },
-    :capulet => {
-      :partiarch => {},
-      :matriarch => {},
-      :herione => {},
-      :herione_friends => []
-      }}
+    
 
   
 end
